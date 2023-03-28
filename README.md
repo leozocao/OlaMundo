@@ -1,2 +1,2 @@
 # Olá Mundo!
-Seguindo as regras da programação // Java
+Um programa que escreve "Olá mundo" na tela // Seguindo as regras da programação - Java
